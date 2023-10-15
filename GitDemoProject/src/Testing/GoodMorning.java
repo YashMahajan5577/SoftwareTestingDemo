@@ -8,7 +8,10 @@ public class GoodMorning {
 		{
 			System.out.println("gm..");
 		}
-
+                for(int i=1;i<=5;i++)
+		{
+			System.out.println("how r u..");
+		}
 	}
 
 }
