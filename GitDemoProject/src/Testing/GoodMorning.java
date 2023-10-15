@@ -12,6 +12,7 @@ public class GoodMorning {
 		{
 			System.out.println("how r u..");
 		}
+		System.out.println("software testing");
 	}
 
 }
