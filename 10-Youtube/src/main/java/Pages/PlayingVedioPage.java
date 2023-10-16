@@ -15,6 +15,12 @@ public class PlayingVedioPage {
 
 	@FindBy (xpath = "//div[text()='Skip Ads']")
 	private WebElement skip;
+
+	@FindBy (xpath = "//div[text()='Skip Ads']")
+	private WebElement s;
+
+	@FindBy (xpath = "//div[text()='Skip Ads']")
+	private WebElement p;
 	
 	@FindBy (xpath = "//video[@class='video-stream html5-main-video']")
 	private WebElement stream;
