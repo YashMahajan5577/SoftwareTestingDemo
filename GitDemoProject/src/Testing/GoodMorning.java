@@ -7,6 +7,7 @@ public class GoodMorning {
 		for(int i=1;i<=5;i++)
 		{
 			System.out.println("gm..");
+			System.out.println("gm..");
 		}
                 for(int i=1;i<=5;i++)
 		{
